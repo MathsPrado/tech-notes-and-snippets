@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mhRBJl/PyWQ=",
+  "success": true,
+  "projectFilePath": "/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/MyBlog.Web.csproj",
+  "expectedPackageFiles": [
+    "/Users/matheusprado/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.3/microsoft.aspnetcore.app.internal.assets.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

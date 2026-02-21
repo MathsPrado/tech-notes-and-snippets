@@ -1,0 +1,28 @@
+﻿@page "/"
+@using MyBlog.Web.Data
+
+<PageTitle>Posts</PageTitle>
+
+<div class="container py-3">
+	<div class="mx-auto" style="max-width: 900px;">
+		<h1 class="text-center">Posts de Programação</h1>
+
+		<p class="mb-4 text-center">Conteúdos que você vai publicar no seu blog pessoal.</p>
+
+		<div class="row g-4">
+			@foreach (var post in BlogPostsRepository.GetAll())
+			{
+				<div class="col-12">
+					<div class="card shadow-sm">
+						<div class="card-body">
+							<h2 class="h4 card-title">@post.Title</h2>
+							<p class="text-muted mb-2">@post.PublishedAt.ToString("dd/MM/yyyy")</p>
+							<p class="card-text">@post.Summary</p>
+							<a class="btn btn-primary" href="/posts/@post.Slug">Ler post</a>
+						</div>
+					</div>
+				</div>
+			}
+		</div>
+	</div>
+</div>

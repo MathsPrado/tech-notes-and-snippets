@@ -1,0 +1,44 @@
+@page "/posts/{Slug}"
+@using MyBlog.Web.Data
+@using MyBlog.Web.Models
+
+<PageTitle>Detalhes do post</PageTitle>
+
+<div class="container py-3">
+    <div class="mx-auto" style="max-width: 900px;">
+        @if (post is null)
+        {
+            <h1 class="text-center">Post não encontrado</h1>
+            <p class="text-center">O conteúdo que você tentou acessar não existe.</p>
+            <div class="text-center">
+                <a class="btn btn-outline-primary" href="/">Voltar para posts</a>
+            </div>
+        }
+        else
+        {
+            <h1 class="text-center">@post.Title</h1>
+            <p class="text-muted text-center">Publicado em @post.PublishedAt.ToString("dd/MM/yyyy")</p>
+
+            @foreach (var paragraph in post.Content)
+            {
+                <p>@paragraph</p>
+            }
+
+            <div class="text-center">
+                <a class="btn btn-outline-primary mt-3" href="/">Voltar para posts</a>
+            </div>
+        }
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public string Slug { get; set; } = string.Empty;
+
+    private BlogPost? post;
+
+    protected override void OnParametersSet()
+    {
+        post = BlogPostsRepository.GetBySlug(Slug);
+    }
+}

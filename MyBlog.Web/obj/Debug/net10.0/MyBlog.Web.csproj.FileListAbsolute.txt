@@ -1,0 +1,173 @@
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/bin/Debug/net10.0/appsettings.Development.json
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/bin/Debug/net10.0/appsettings.json
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/bin/Debug/net10.0/MyBlog.Web.staticwebassets.runtime.json
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/bin/Debug/net10.0/MyBlog.Web.staticwebassets.endpoints.json
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/bin/Debug/net10.0/MyBlog.Web
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/bin/Debug/net10.0/MyBlog.Web.deps.json
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/bin/Debug/net10.0/MyBlog.Web.runtimeconfig.json
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/bin/Debug/net10.0/MyBlog.Web.dll
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/bin/Debug/net10.0/MyBlog.Web.pdb
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/EmbeddedAttribute.cs
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/ValidatableTypeAttribute.cs
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/MyBlog.Web.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/MyBlog.Web.AssemblyInfoInputs.cache
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/MyBlog.Web.AssemblyInfo.cs
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/MyBlog.Web.csproj.CoreCompileInputs.cache
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/MyBlog.Web.MvcApplicationPartsAssemblyInfo.cache
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/scopedcss/Components/Layout/ReconnectModal.razor.rz.scp.css
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/scopedcss/bundle/MyBlog.Web.styles.css
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/scopedcss/projectbundle/MyBlog.Web.bundle.scp.css
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/zmo7hw7avl-{0}-w7mf952350-w7mf952350.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/wpcjzsmu4t-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/j72amh56wu-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/lfgtpzk2jw-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/nxjhck86ar-{0}-aexeepp0ev-aexeepp0ev.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/mixaear17x-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/50il74ihbb-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/2ohaxzdxi5-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/xnvp87ejxq-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/xgiq3da5dz-{0}-ub07r2b239-ub07r2b239.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/kgex4smcgz-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/q1smp4k34k-{0}-b7pk76d08c-b7pk76d08c.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/5iwzgatvzr-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/zp9fmgyy6z-{0}-rzd6atqjts-rzd6atqjts.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/qq7mjllndy-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/270p015hfc-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/nypz48rh7b-{0}-jd9uben2k1-jd9uben2k1.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/a38aqxa95o-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/i7wr11n7k0-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/iu41otwlf3-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/5er2tp9ufl-{0}-c2oey78nd0-c2oey78nd0.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/0b58fun581-{0}-tdbxkamptv-tdbxkamptv.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/ki9j2ihj8z-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/d0nd4ky7mb-{0}-06098lyss8-06098lyss8.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/60dfrcb2hf-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/gst61m30w0-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/64o7fdxzpr-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/yxe7hbwvo9-{0}-46ein0sx1k-46ein0sx1k.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/0lthpalxp0-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/2i6om5dzfn-{0}-37tfw0ft22-37tfw0ft22.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/cbhomqfvuq-{0}-hrwsygsryq-hrwsygsryq.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/zc7m0bmhlw-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/yyzh3jv1tu-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/c52sqcq79b-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/8j84ny3nm7-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/d5xs3ekwei-{0}-493y06b0oq-493y06b0oq.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/rb2c5s4tek-{0}-iovd86k7lj-iovd86k7lj.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/d45wzxzb9p-{0}-vr1egmr9el-vr1egmr9el.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/winmd2uzfv-{0}-kbrnm935zg-kbrnm935zg.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/28tp4cfi80-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/cyjk857nxs-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/wbow1kvogv-{0}-notf2xhcfb-notf2xhcfb.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/pcsqb0o8zp-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/m8w7jsingy-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/pnsa8m12yk-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/6nks2rbmd6-{0}-cyz5k529gx-cyz5k529gx.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/fnd36zywb3-{0}-ax6tuj8tun-ax6tuj8tun.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/9292njuc7c-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/staticwebassets.build.json
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/staticwebassets.development.json
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/swae.build.ex.cache
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/MyBlog.Web.dll
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/refint/MyBlog.Web.dll
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/MyBlog.Web.pdb
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/MyBlog.Web.genruntimeconfig.cache
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/ref/MyBlog.Web.dll
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/dpe67o9uzs-{0}-scqo2hujc1-scqo2hujc1.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/9o7lialar9-{0}-kemohr3xr6-kemohr3xr6.gz
+/Users/matheusprado/Documents/MyBlog/MyBlog.Web/obj/Debug/net10.0/compressed/frqkhsi4xe-{0}-kemohr3xr6-kemohr3xr6.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/bin/Debug/net10.0/appsettings.Development.json
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/bin/Debug/net10.0/appsettings.json
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/bin/Debug/net10.0/MyBlog.Web.staticwebassets.endpoints.json
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/bin/Debug/net10.0/MyBlog.Web.staticwebassets.runtime.json
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/bin/Debug/net10.0/MyBlog.Web
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/bin/Debug/net10.0/MyBlog.Web.deps.json
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/bin/Debug/net10.0/MyBlog.Web.runtimeconfig.json
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/bin/Debug/net10.0/MyBlog.Web.dll
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/bin/Debug/net10.0/MyBlog.Web.pdb
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/EmbeddedAttribute.cs
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/ValidatableTypeAttribute.cs
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/MyBlog.Web.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/MyBlog.Web.AssemblyInfoInputs.cache
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/MyBlog.Web.AssemblyInfo.cs
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/MyBlog.Web.csproj.CoreCompileInputs.cache
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/MyBlog.Web.MvcApplicationPartsAssemblyInfo.cache
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/MyBlog.Web.sourcelink.json
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/scopedcss/Components/Layout/ReconnectModal.razor.rz.scp.css
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/scopedcss/bundle/MyBlog.Web.styles.css
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/scopedcss/projectbundle/MyBlog.Web.bundle.scp.css
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/zmo7hw7avl-{0}-w7mf952350-w7mf952350.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/dpe67o9uzs-{0}-scqo2hujc1-scqo2hujc1.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/wpcjzsmu4t-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/j72amh56wu-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/lfgtpzk2jw-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/nxjhck86ar-{0}-aexeepp0ev-aexeepp0ev.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/mixaear17x-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/50il74ihbb-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/2ohaxzdxi5-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/xnvp87ejxq-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/xgiq3da5dz-{0}-ub07r2b239-ub07r2b239.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/kgex4smcgz-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/q1smp4k34k-{0}-b7pk76d08c-b7pk76d08c.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/5iwzgatvzr-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/zp9fmgyy6z-{0}-rzd6atqjts-rzd6atqjts.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/qq7mjllndy-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/270p015hfc-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/nypz48rh7b-{0}-jd9uben2k1-jd9uben2k1.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/a38aqxa95o-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/i7wr11n7k0-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/iu41otwlf3-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/5er2tp9ufl-{0}-c2oey78nd0-c2oey78nd0.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/0b58fun581-{0}-tdbxkamptv-tdbxkamptv.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/ki9j2ihj8z-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/d0nd4ky7mb-{0}-06098lyss8-06098lyss8.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/60dfrcb2hf-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/gst61m30w0-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/64o7fdxzpr-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/yxe7hbwvo9-{0}-46ein0sx1k-46ein0sx1k.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/0lthpalxp0-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/2i6om5dzfn-{0}-37tfw0ft22-37tfw0ft22.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/cbhomqfvuq-{0}-hrwsygsryq-hrwsygsryq.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/zc7m0bmhlw-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/yyzh3jv1tu-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/c52sqcq79b-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/8j84ny3nm7-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/d5xs3ekwei-{0}-493y06b0oq-493y06b0oq.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/rb2c5s4tek-{0}-iovd86k7lj-iovd86k7lj.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/d45wzxzb9p-{0}-vr1egmr9el-vr1egmr9el.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/winmd2uzfv-{0}-kbrnm935zg-kbrnm935zg.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/28tp4cfi80-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/cyjk857nxs-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/wbow1kvogv-{0}-notf2xhcfb-notf2xhcfb.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/pcsqb0o8zp-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/m8w7jsingy-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/pnsa8m12yk-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/6nks2rbmd6-{0}-cyz5k529gx-cyz5k529gx.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/fnd36zywb3-{0}-ax6tuj8tun-ax6tuj8tun.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/9292njuc7c-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/9o7lialar9-{0}-kemohr3xr6-kemohr3xr6.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/frqkhsi4xe-{0}-kemohr3xr6-kemohr3xr6.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/staticwebassets.build.json
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/staticwebassets.development.json
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/swae.build.ex.cache
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/MyBlog.Web.dll
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/refint/MyBlog.Web.dll
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/MyBlog.Web.pdb
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/MyBlog.Web.genruntimeconfig.cache
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/ref/MyBlog.Web.dll

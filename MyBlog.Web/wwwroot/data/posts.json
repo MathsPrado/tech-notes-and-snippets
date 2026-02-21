@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "introducao-ao-csharp",
+    "title": "Introdução ao C#: primeiros passos",
+    "summary": "Conceitos iniciais para começar a programar com C# e .NET.",
+    "publishedAt": "2026-02-10",
+    "content": [
+      "C# é uma linguagem moderna e muito utilizada para aplicações web, desktop e serviços em nuvem.",
+      "Para começar, foque em variáveis, estruturas de decisão, loops e funções.",
+      "Depois evolua para orientação a objetos, trabalhando com classes, propriedades e métodos."
+    ]
+  },
+  {
+    "slug": "blazor-componentes",
+    "title": "Blazor na prática: criando componentes",
+    "summary": "Como organizar sua interface em componentes reutilizáveis no Blazor.",
+    "publishedAt": "2026-02-15",
+    "content": [
+      "No Blazor, componentes são blocos de UI com marcação Razor e lógica em C#.",
+      "Você pode passar dados entre componentes com parâmetros e eventos.",
+      "Uma boa divisão de componentes deixa o projeto mais limpo e fácil de manter."
+    ]
+  },
+  {
+    "slug": "boas-praticas-api-dotnet",
+    "title": "Boas práticas para APIs com .NET",
+    "summary": "Dicas essenciais para criar APIs organizadas, seguras e performáticas.",
+    "publishedAt": "2026-02-18",
+    "content": [
+      "Estruture seu projeto por camadas para separar responsabilidades.",
+      "Use validação de entrada e trate erros com respostas padronizadas.",
+      "Adicione logs e testes para facilitar manutenção e evolução da API."
+    ]
+  }
+]
