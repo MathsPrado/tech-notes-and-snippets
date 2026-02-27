@@ -110,7 +110,6 @@
 /Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/scopedcss/Components/Layout/ReconnectModal.razor.rz.scp.css
 /Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/scopedcss/bundle/MyBlog.Web.styles.css
 /Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/scopedcss/projectbundle/MyBlog.Web.bundle.scp.css
-/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/zmo7hw7avl-{0}-w7mf952350-w7mf952350.gz
 /Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/dpe67o9uzs-{0}-scqo2hujc1-scqo2hujc1.gz
 /Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/wpcjzsmu4t-{0}-bqjiyaj88i-bqjiyaj88i.gz
 /Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/j72amh56wu-{0}-c2jlpeoesf-c2jlpeoesf.gz
@@ -159,8 +158,6 @@
 /Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/6nks2rbmd6-{0}-cyz5k529gx-cyz5k529gx.gz
 /Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/fnd36zywb3-{0}-ax6tuj8tun-ax6tuj8tun.gz
 /Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/9292njuc7c-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
-/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/9o7lialar9-{0}-kemohr3xr6-kemohr3xr6.gz
-/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/frqkhsi4xe-{0}-kemohr3xr6-kemohr3xr6.gz
 /Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/staticwebassets.build.json
 /Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/staticwebassets.build.json.cache
 /Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/staticwebassets.development.json
@@ -171,3 +168,7 @@
 /Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/MyBlog.Web.pdb
 /Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/MyBlog.Web.genruntimeconfig.cache
 /Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/ref/MyBlog.Web.dll
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/scopedcss/Components/Layout/Footer.razor.rz.scp.css
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/zmo7hw7avl-{0}-61h43r7ia9-61h43r7ia9.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/9o7lialar9-{0}-idb3s1f3yq-idb3s1f3yq.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/frqkhsi4xe-{0}-idb3s1f3yq-idb3s1f3yq.gz

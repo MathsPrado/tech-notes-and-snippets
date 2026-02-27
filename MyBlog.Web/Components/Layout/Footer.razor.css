@@ -1,0 +1,82 @@
+.blog-footer {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.9), rgba(245, 250, 255, 0.75));
+    border-top: 1px solid rgba(15, 31, 45, 0.08);
+    padding: 26px 0 34px;
+    margin-top: 50px;
+    backdrop-filter: blur(10px);
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    text-align: center;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+.footer-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: #0f1f2d;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.25s ease, transform 0.25s ease;
+}
+
+.footer-link:hover {
+    color: #ff6b3d;
+    transform: translateY(-2px);
+}
+
+.footer-link.linkedin:hover {
+    color: #0a66c2;
+}
+
+.footer-link.github:hover {
+    color: #0f1f2d;
+}
+
+.footer-link i {
+    font-size: 20px;
+}
+
+.footer-text {
+    color: #52607a;
+    font-size: 14px;
+    margin: 0;
+}
+
+.footer-text p {
+    margin: 0;
+}
+
+@media (max-width: 768px) {
+    .blog-footer {
+        margin-top: 40px;
+        padding: 20px 0;
+    }
+
+    .footer-links {
+        gap: 20px;
+    }
+
+    .footer-link {
+        gap: 6px;
+    }
+
+    .footer-link i {
+        font-size: 18px;
+    }
+
+    .footer-link span {
+        display: none;
+    }
+}

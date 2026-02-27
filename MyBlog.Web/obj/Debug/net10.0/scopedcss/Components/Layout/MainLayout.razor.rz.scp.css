@@ -2,6 +2,32 @@
     position: relative;
     display: flex;
     flex-direction: column;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+.page[b-js0kc6k0j0]::before,
+.page[b-js0kc6k0j0]::after {
+    content: "";
+    position: fixed;
+    z-index: -1;
+    width: 34rem;
+    height: 34rem;
+    border-radius: 50%;
+    filter: blur(0);
+    opacity: 0.55;
+}
+
+.page[b-js0kc6k0j0]::before {
+    top: -10rem;
+    right: -8rem;
+    background: radial-gradient(circle at 30% 30%, rgba(255, 210, 181, 0.9), rgba(255, 210, 181, 0));
+}
+
+.page[b-js0kc6k0j0]::after {
+    bottom: -12rem;
+    left: -10rem;
+    background: radial-gradient(circle at 30% 30%, rgba(192, 240, 228, 0.9), rgba(192, 240, 228, 0));
 }
 
 main[b-js0kc6k0j0] {
@@ -9,63 +35,17 @@ main[b-js0kc6k0j0] {
 }
 
 .top-nav[b-js0kc6k0j0] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.85), rgba(245, 250, 255, 0.75));
+    backdrop-filter: blur(18px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.6);
     position: sticky;
     top: 0;
     z-index: 2;
 }
 
-.top-row[b-js0kc6k0j0] {
-    background-color: #f7f7f7;
-    border-bottom: 1px solid #d6d5d5;
-    justify-content: flex-end;
-    height: 3.5rem;
-    display: flex;
-    align-items: center;
-}
-
-    .top-row[b-js0kc6k0j0]  a, .top-row[b-js0kc6k0j0]  .btn-link {
-        white-space: nowrap;
-        margin-left: 1.5rem;
-        text-decoration: none;
-    }
-
-    .top-row[b-js0kc6k0j0]  a:hover, .top-row[b-js0kc6k0j0]  .btn-link:hover {
-        text-decoration: underline;
-    }
-
-    .top-row[b-js0kc6k0j0]  a:first-child {
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
-
-@media (max-width: 640.98px) {
-    .top-row[b-js0kc6k0j0] {
-        justify-content: space-between;
-    }
-
-    .top-row[b-js0kc6k0j0]  a, .top-row[b-js0kc6k0j0]  .btn-link {
-        margin-left: 0;
-    }
-}
-
-@media (min-width: 641px) {
-    .top-row[b-js0kc6k0j0] {
-        position: sticky;
-        top: 0;
-        z-index: 1;
-    }
-
-    .top-row.auth[b-js0kc6k0j0]  a:first-child {
-        flex: 1;
-        text-align: right;
-        width: 0;
-    }
-
-    .top-row[b-js0kc6k0j0], article[b-js0kc6k0j0] {
-        padding-left: 2rem !important;
-        padding-right: 1.5rem !important;
-    }
+.main-content[b-js0kc6k0j0] {
+    flex: 1;
+    padding: 1.5rem 0 3rem;
 }
 
 #blazor-error-ui[b-js0kc6k0j0] {
