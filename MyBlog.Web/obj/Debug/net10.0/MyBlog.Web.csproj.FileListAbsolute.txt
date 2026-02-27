@@ -170,5 +170,5 @@
 /Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/ref/MyBlog.Web.dll
 /Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/scopedcss/Components/Layout/Footer.razor.rz.scp.css
 /Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/zmo7hw7avl-{0}-61h43r7ia9-61h43r7ia9.gz
-/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/9o7lialar9-{0}-idb3s1f3yq-idb3s1f3yq.gz
-/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/frqkhsi4xe-{0}-idb3s1f3yq-idb3s1f3yq.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/9o7lialar9-{0}-mqior0hocr-mqior0hocr.gz
+/Users/matheusprado/Desktop/matheus Git/tech-notes-and-snippets/MyBlog.Web/obj/Debug/net10.0/compressed/frqkhsi4xe-{0}-mqior0hocr-mqior0hocr.gz
