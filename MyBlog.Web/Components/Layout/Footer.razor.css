@@ -1,6 +1,6 @@
 .blog-footer {
-    background: linear-gradient(135deg, rgba(255, 255, 255, 0.9), rgba(245, 250, 255, 0.75));
-    border-top: 1px solid rgba(15, 31, 45, 0.08);
+    background: rgba(255, 255, 255, 0.9);
+    border-top: 1px solid rgba(27, 27, 27, 0.08);
     padding: 26px 0 34px;
     margin-top: 50px;
     backdrop-filter: blur(10px);
@@ -25,14 +25,14 @@
     display: inline-flex;
     align-items: center;
     gap: 8px;
-    color: #0f1f2d;
+    color: #1b1b1b;
     text-decoration: none;
     font-weight: 500;
     transition: color 0.25s ease, transform 0.25s ease;
 }
 
 .footer-link:hover {
-    color: #ff6b3d;
+    color: #1a8917;
     transform: translateY(-2px);
 }
 
@@ -41,7 +41,7 @@
 }
 
 .footer-link.github:hover {
-    color: #0f1f2d;
+    color: #1b1b1b;
 }
 
 .footer-link i {
@@ -49,7 +49,7 @@
 }
 
 .footer-text {
-    color: #52607a;
+    color: #5f6368;
     font-size: 14px;
     margin: 0;
 }

@@ -22,9 +22,9 @@
     justify-content: center;
     font-weight: 700;
     letter-spacing: 0.05em;
-    color: #0f1f2d;
-    background: linear-gradient(135deg, #ffd2b5, #c7e5ff, #d6f6e6);
-    box-shadow: 0 10px 22px rgba(15, 31, 45, 0.12);
+    color: #ffffff;
+    background: #1a8917;
+    box-shadow: 0 10px 22px rgba(27, 27, 27, 0.12);
 }
 
 .brand-text[b-tff7u97uy8] {
@@ -37,15 +37,15 @@
     font-size: 1.1rem;
     font-weight: 700;
     text-decoration: none;
-    color: #0f1f2d;
+    color: #1b1b1b;
 }
 
 .brand-subtitle[b-tff7u97uy8] {
     font-size: 0.85rem;
-    color: #52607a;
-
-
-.brand-title:hover {
-    color: #ff6b3d;
+    color: #5f6368;
 }
+
+.brand-title:hover[b-tff7u97uy8] {
+    color: #1a8917;
+
 
