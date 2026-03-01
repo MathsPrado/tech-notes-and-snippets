@@ -12,12 +12,75 @@
     --card: #ffffff;
     --shadow: 0 18px 45px rgba(27, 27, 27, 0.08);
     --border-soft: rgba(27, 27, 27, 0.08);
+    --page-bg: linear-gradient(180deg, #faf7f2 0%, #f5f5f2 60%, #f7f7f5 100%);
+    --top-nav-bg: rgba(255, 255, 255, 0.9);
+    --top-nav-border: rgba(27, 27, 27, 0.08);
+    --top-nav-ink: #1b1b1b;
+    --top-nav-muted: #5f6368;
+    --top-nav-control-bg: rgba(255, 255, 255, 0.96);
+    --footer-bg: rgba(255, 255, 255, 0.9);
+    --footer-border: rgba(27, 27, 27, 0.08);
+    --footer-link: #1b1b1b;
+    --footer-link-github: #1b1b1b;
+    --footer-link-linkedin: #0a66c2;
+
+    --bs-body-bg: #ffffff;
+    --bs-body-color: var(--ink);
+    --bs-emphasis-color: var(--ink);
+    --bs-secondary-color: var(--muted);
+    --bs-border-color: var(--border-soft);
+    --bs-card-bg: var(--card);
+    --bs-card-color: var(--ink);
+    --bs-primary: var(--accent);
+    --bs-link-color: var(--ink);
+    --bs-link-hover-color: var(--accent);
+}
+
+:root[data-theme='dark'] {
+    --ink: #e6edf3;
+    --muted: #8b949e;
+    --accent: #2ea043;
+    --accent-soft: rgba(46, 160, 67, 0.22);
+    --card: #161b22;
+    --shadow: 0 18px 45px rgba(1, 4, 9, 0.38);
+    --border-soft: #30363d;
+    --page-bg: linear-gradient(180deg, #0d1117 0%, #0f141b 55%, #0d1117 100%);
+    --top-nav-bg: rgba(13, 17, 23, 0.95);
+    --top-nav-border: #30363d;
+    --top-nav-ink: #f0f6fc;
+    --top-nav-muted: #8b949e;
+    --top-nav-control-bg: #0d1117;
+    --footer-bg: rgba(13, 17, 23, 0.95);
+    --footer-border: #30363d;
+    --footer-link: #e6edf3;
+    --footer-link-github: #e6edf3;
+    --footer-link-linkedin: #58a6ff;
+
+    --bs-body-bg: #0d1117;
+    --bs-body-color: var(--ink);
+    --bs-emphasis-color: #f0f6fc;
+    --bs-secondary-color: var(--muted);
+    --bs-border-color: #30363d;
+    --bs-card-bg: var(--card);
+    --bs-card-color: var(--ink);
+    --bs-primary: #2ea043;
+    --bs-link-color: #c9d1d9;
+    --bs-link-hover-color: #2ea043;
+}
+
+:root[data-theme='light'] {
+    color-scheme: light;
+}
+
+:root[data-theme='dark'] {
+    color-scheme: dark;
 }
 
 html, body {
     font-family: 'Work Sans', sans-serif;
     color: var(--ink);
-    background: linear-gradient(180deg, #faf7f2 0%, #f5f5f2 60%, #f7f7f5 100%);
+    background-color: var(--bs-body-bg);
+    background: var(--page-bg);
     min-height: 100%;
 }
 
@@ -55,7 +118,7 @@ a:hover, .btn-link:hover {
 .content-wrap {
     width: min(1100px, 92vw);
     margin: 0 auto;
-    background: #ffffff;
+    background: var(--card);
     border: 1px solid var(--border-soft);
     border-radius: 18px;
     box-shadow: var(--shadow);

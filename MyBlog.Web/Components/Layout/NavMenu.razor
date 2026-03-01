@@ -6,5 +6,14 @@
             <span class="brand-subtitle">Notas curtas sobre dev e produto</span>
         </div>
     </div>
+
+    <div class="theme-picker">
+        <label for="theme-select">Tema</label>
+        <select id="theme-select" onchange="window.themeManager?.setTheme(this.value)">
+            <option value="system">Sistema</option>
+            <option value="light">Light</option>
+            <option value="dark">Dark</option>
+        </select>
+    </div>
 </div>
 
