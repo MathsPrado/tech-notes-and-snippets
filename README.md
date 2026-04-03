@@ -1,6 +1,6 @@
 # Tech Notes and Snippets
 
-Mini blog feito em Blazor (Server) para listar posts de programacao a partir de um arquivo JSON.
+Mini blog feito em Blazor (Server) para listar posts de programacao a (partir de um arquivo JSON, temporariamente).
 
 ## Visao geral
 
